@@ -29,3 +29,83 @@ A Python-based desktop application that connects to **UHF RFID readers** (e.g., 
 ```bash
 git clone https://github.com/your-username/rfid-reader-dashboard.git
 cd rfid-reader-dashboard
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On Unix/macOS
+source venv/bin/activate
+pip install sllurp
+```
+▶️ Usage
+Ensure the RFID reader is powered on and accessible in the same network.
+
+Run the Python app:
+```bash
+python rfid_reader_gui.py
+```
+Enter your RFID reader IP (e.g., 192.168.55.161) in the input box.
+
+Click ▶ Start Reader to begin scanning.
+
+EPCs will appear in the grid with counts and RSSI.
+
+Click ⏹ Stop Reader to stop scanning and clear the screen.
+![image](https://github.com/user-attachments/assets/5ad9ecd4-e4e0-4a11-a282-4fe2b86a7bad)
+
+🔍 Use Cases
+This tool can be used in various industries and environments:
+
+✅ Warehouse Inventory Tracking
+
+✅ Retail Backroom Tag Counting
+
+✅ Asset Management
+
+✅ Manufacturing Production Line Scanning
+
+✅ Library Book/Media Tracking
+
+✅ Live RFID Testing and Monitoring
+
+✅ Field RFID Reader Debugging
+
+📈 Future Improvements
+You can build more advanced features on top of this app, such as:
+
+💾 Data Persistence
+Export scanned data to CSV / Excel
+
+Save to SQL Server / SQLite databases for audit history
+
+📊 Reporting & Filtering
+Filter tags by Antenna, EPC prefix, or time range
+
+Generate summary reports (total tags by antenna, etc.)
+
+🌐 Web & API
+Create a web-based version using Flask or FastAPI
+
+Serve scanned data over an API or web dashboard
+
+📲 Mobile / Cross-Platform
+Build mobile app with Flutter or Kivy
+
+Communicate with reader via socket or HTTP
+
+📶 Reader Management
+Support for multiple readers
+
+Reader status monitor and alerts for disconnects
+
+🛠️ Admin Tools
+User login & access levels
+
+Role-based views (e.g., Operator vs Admin)
+
+🔄 Sync & Cloud
+Sync scanned tags to a cloud server
+
+View dashboards remotely
+
+
+
