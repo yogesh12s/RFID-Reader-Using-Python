@@ -70,6 +70,7 @@ This tool can be used in various industries and environments:
 
 ✅ Field RFID Reader Debugging
 ---
+---
 ##📈 Future Improvements
 
 You can build more advanced features on top of this app, such as:
@@ -109,7 +110,9 @@ Sync scanned tags to a cloud server
 
 View dashboards remotely
 ---
+---
 ## Contact:
+---
 **+918524011354
 yogeshgokul372@gmail.com**
 
