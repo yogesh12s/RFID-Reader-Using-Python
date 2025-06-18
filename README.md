@@ -107,5 +107,8 @@ Sync scanned tags to a cloud server
 
 View dashboards remotely
 
+Contact:
+**+918524011354
+yogeshgokul372@gmail.com**
 
 
