@@ -30,10 +30,13 @@ A Python-based desktop application that connects to **UHF RFID readers** (e.g., 
 git clone https://github.com/your-username/RFID-Reader-Using-Python.git
 cd RFID-Reader-Using-Python
 python -m venv venv
+#-----------------------------------------------------------------
+
 # On Windows
 venv\Scripts\activate
 # On Unix/macOS
 source venv/bin/activate
+#-----------------------------------------------------------------
 pip install sllurp
 ```
 ##▶️ Usage
