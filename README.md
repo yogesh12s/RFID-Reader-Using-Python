@@ -39,7 +39,8 @@ source venv/bin/activate
 #-----------------------------------------------------------------
 pip install sllurp
 ```
-##▶️ Usage
+**▶️ Usage**
+
 Ensure the RFID reader is powered on and accessible in the same network.
 
 Run the Python app:
