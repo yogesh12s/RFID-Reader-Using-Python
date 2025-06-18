@@ -27,8 +27,8 @@ A Python-based desktop application that connects to **UHF RFID readers** (e.g., 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rfid-reader-dashboard.git
-cd rfid-reader-dashboard
+git clone https://github.com/your-username/RFID-Reader-Using-Python.git
+cd RFID-Reader-Using-Python
 python -m venv venv
 # On Windows
 venv\Scripts\activate
@@ -41,7 +41,7 @@ Ensure the RFID reader is powered on and accessible in the same network.
 
 Run the Python app:
 ```bash
-python rfid_reader_gui.py
+python reader.py
 ```
 Enter your RFID reader IP (e.g., 192.168.55.161) in the input box.
 
