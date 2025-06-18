@@ -52,7 +52,8 @@ EPCs will appear in the grid with counts and RSSI.
 Click ⏹ Stop Reader to stop scanning and clear the screen.
 ![image](https://github.com/user-attachments/assets/5ad9ecd4-e4e0-4a11-a282-4fe2b86a7bad)
 
-🔍 Use Cases
+**🔍 Use Cases**
+
 This tool can be used in various industries and environments:
 
 ✅ Warehouse Inventory Tracking
@@ -69,7 +70,8 @@ This tool can be used in various industries and environments:
 
 ✅ Field RFID Reader Debugging
 
-📈 Future Improvements
+**📈 Future Improvements**
+
 You can build more advanced features on top of this app, such as:
 
 💾 Data Persistence
@@ -107,7 +109,7 @@ Sync scanned tags to a cloud server
 
 View dashboards remotely
 
-Contact:
+**Contact:**
 **+918524011354
 yogeshgokul372@gmail.com**
 
