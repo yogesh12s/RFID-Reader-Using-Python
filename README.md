@@ -1,4 +1,4 @@
-# 🛰️ RFID Reader Dashboard (Tkinter + Sllurp)
+# 🛰️ RFID Reader Dashboard (Tkinter + Sllurp) SDK (Software Development Kit)
 
 A Python-based desktop application that connects to **UHF RFID readers** (e.g., Zebra FX7500) via the **LLRP protocol** using the `sllurp` library. The app uses a user-friendly **Tkinter GUI** to scan, count, and display live EPC tag data in a real-time table.
 
